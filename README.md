@@ -1,0 +1,2 @@
+# xss-codeql
+xss-codeql
